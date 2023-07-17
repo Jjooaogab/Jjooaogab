@@ -5,6 +5,5 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="right" alt="Jjooaogab-PYTHON" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png">
-  /download.jpg">
   </div>
   
