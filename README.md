@@ -8,13 +8,3 @@
   <img align="right" alt="Jjooaogab-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/968177430978265118/972240985344073830/download.jpg">
   </div>
   
-    
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/Jjooaogab_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
